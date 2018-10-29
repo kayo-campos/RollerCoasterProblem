@@ -15,3 +15,5 @@ A graphical implementation of the Roller Coaster problem
 ### Run the jar file
 
     java -jar threads.jar
+
+Thanks!
